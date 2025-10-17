@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 
+# instanciamos
 app = FastAPI()
 
 # primr end-poin
